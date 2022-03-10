@@ -1,0 +1,11 @@
+{
+  "name": "mobile-changelog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:paralenz/mobile-changelog.git",
+  "author": "Carsten Daurehøj <arelstone@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "docsify-cli": "^4.4.3"
+  }
+}
