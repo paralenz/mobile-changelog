@@ -11,5 +11,8 @@
   },
   "devDependencies": {
     "docsify-cli": "^4.4.3"
+  },
+  "dependencies": {
+    "@paralenz/cli": "^1.4.4"
   }
 }
