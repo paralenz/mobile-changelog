@@ -1,19 +1,15 @@
 ## v2.14.0
 April 13, 2022
 
+### Tweaks
+* 🔧 Tweak UX for showing rentals for suitcases (#1710) [`5281d1f`](https://github.com/paralenz/mobile/commit/5281d1f5158f1b69e33e6130fa56fe2b44f73e5a)
+
+
 ### Fixes
 * 🐛 Add appId for apple devices when checking for new version (#1732) [`e9bb0b0`](https://github.com/paralenz/mobile/commit/e9bb0b055175fe6be7a8bd76e9859bfcad4fe890)
-
-
-
-## v2.14.0
-April 12, 2022
-
-
-
-## v2.14.0
-April 11, 2022
-
+* 🚑 Add missing react import [`1da4f5e`](https://github.com/paralenz/mobile/commit/1da4f5edd261cf0af77c63d056ac12b5399173aa)
+* 🚑 Fix app crashes when open a story with no timeLog (#1726) [`a0aa248`](https://github.com/paralenz/mobile/commit/a0aa2483929a093dd5f943ccbf6c5ba89437ce05)
+* 🏷️ Fix all typescript errors and run tsc as part of workflows (#1722) [`5a34197`](https://github.com/paralenz/mobile/commit/5a341973db799c7e29b693ccb6b905a00eefbecf)
 
 
 
