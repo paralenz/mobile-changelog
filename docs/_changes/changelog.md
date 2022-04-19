@@ -1,4 +1,12 @@
 ## v2.14.0
+April 19, 2022
+
+### Fixes
+* 🐛 Add appId for apple devices when checking for new version (#1732) [`e9bb0b0`](https://github.com/paralenz/mobile/commit/e9bb0b055175fe6be7a8bd76e9859bfcad4fe890)
+
+
+
+## v2.14.0
 April 13, 2022
 
 ### Tweaks
