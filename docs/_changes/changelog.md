@@ -1,16 +1,4 @@
 ## v2.14.0
-April 19, 2022
-* Android: v115
-* iOS: v190
-
-
-### Fixes
-* 🚑 Import moment with locales (#1743)  [`c8a0797`](https://github.com/paralenz/mobile/commit/c8a0797248cddf1e0fcdc4e6109a6ee4ceeedcb9)
-* 🐛 Add appId for apple devices when checking for new version (#1732) [`e9bb0b0`](https://github.com/paralenz/mobile/commit/e9bb0b055175fe6be7a8bd76e9859bfcad4fe890)
-
-
-
-## v2.14.0
 April 13, 2022
 
 ### Tweaks
@@ -18,7 +6,8 @@ April 13, 2022
 
 
 ### Fixes
-* 🐛 Add appId for apple devices when checking for new version (#1732) [`e9bb0b0`](https://github.com/paralenz/mobile/commit/e9bb0b055175fe6be7a8bd76e9859bfcad4fe890)
+* 🚑 Import moment with locales (#1743)  [`c8a0797`](https://github.com/paralenz/mobile/commit/c8a0797248cddf1e0fcdc4e6109a6ee4ceeedcb9)
+* 🐛 Add appId for apple devices when checking for new version (#1732) [`e9bb0b0`](https://github.com/paralenz/mobile/commit/e9bb0b055175fe6be7a8bd76e9859bfcad4fe890)(https://github.com/paralenz/mobile/commit/e9bb0b055175fe6be7a8bd76e9859bfcad4fe890)
 * 🚑 Add missing react import [`1da4f5e`](https://github.com/paralenz/mobile/commit/1da4f5edd261cf0af77c63d056ac12b5399173aa)
 * 🚑 Fix app crashes when open a story with no timeLog (#1726) [`a0aa248`](https://github.com/paralenz/mobile/commit/a0aa2483929a093dd5f943ccbf6c5ba89437ce05)
 * 🏷️ Fix all typescript errors and run tsc as part of workflows (#1722) [`5a34197`](https://github.com/paralenz/mobile/commit/5a341973db799c7e29b693ccb6b905a00eefbecf)
