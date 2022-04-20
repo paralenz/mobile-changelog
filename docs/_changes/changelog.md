@@ -1,8 +1,7 @@
-## v2.14.0
+## v2.15.0
 April 20, 2022
 
 ### Feature
-* ✨  It should be possible to swipe left and right stories (#1730) [`adb15ed`](https://github.com/paralenz/mobile/commit/adb15eda457458440fac4f6a7e0b66174f362aab)
 * ✨ Check if the device has enough space before when exporting media (#… [`beb7945`](https://github.com/paralenz/mobile/commit/beb79451960298c520489a4161751228fc1c68e2)
 
 
