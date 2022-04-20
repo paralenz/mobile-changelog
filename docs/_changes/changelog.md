@@ -8,8 +8,6 @@ April 20, 2022
 ### Fixes
 * 🐛 Use imports from lib/i18n only [`8359211`](https://github.com/paralenz/mobile/commit/8359211fc78aea7ee760fcfc8925d6284bb27961)
 * 🐛  Add loading indicator while video is loading and read local files … [`79e2d67`](https://github.com/paralenz/mobile/commit/79e2d67b63586653d093b398450855f579dad890)
-* 🐛 Add appId for apple devices when checking for new version (#1732) [`e9bb0b0`](https://github.com/paralenz/mobile/commit/e9bb0b055175fe6be7a8bd76e9859bfcad4fe890)
-
 
 
 ## v2.14.0
