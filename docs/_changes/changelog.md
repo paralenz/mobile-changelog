@@ -1,4 +1,12 @@
 ## v2.15.0
+April 26, 2022
+
+### Feature
+* ✨  It should be possible to swipe left and right stories (#1730) [`adb15ed`](https://github.com/paralenz/mobile/commit/adb15eda457458440fac4f6a7e0b66174f362aab)
+
+
+
+## v2.15.0
 April 20, 2022
 
 ### Feature
