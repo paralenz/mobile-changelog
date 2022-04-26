@@ -1,7 +1,7 @@
 ## v2.15.1
 April 26, 2022
 
-### Feature
+### Fixes
 * 🚑 Import moment with locales [`fc790c3`](https://github.com/paralenz/mobile/commit/fc790c3e34b0f2650543569462284c23939a942e)
 
 
