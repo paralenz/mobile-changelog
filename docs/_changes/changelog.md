@@ -1,8 +1,8 @@
-## v2.15.0
+## v2.15.1
 April 26, 2022
 
 ### Feature
-* ✨  It should be possible to swipe left and right stories (#1730) [`adb15ed`](https://github.com/paralenz/mobile/commit/adb15eda457458440fac4f6a7e0b66174f362aab)
+* 🚑 Import moment with locales [`fc790c3`](https://github.com/paralenz/mobile/commit/fc790c3e34b0f2650543569462284c23939a942e)
 
 
 
