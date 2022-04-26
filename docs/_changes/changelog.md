@@ -2,6 +2,14 @@
 April 26, 2022
 
 ### Fixes
+* 🚑️ Codepush does not work (#1773) [`ebab43a`](https://github.com/paralenz/mobile/commit/ebab43a5c0b089d2a8b1077fb8d259fad5111f0b)
+
+
+
+## v2.15.1
+April 26, 2022
+
+### Fixes
 * 🚑 Import moment with locales [`fc790c3`](https://github.com/paralenz/mobile/commit/fc790c3e34b0f2650543569462284c23939a942e)
 
 
