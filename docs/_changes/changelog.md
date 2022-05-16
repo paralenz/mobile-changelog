@@ -1,4 +1,16 @@
 ## v2.15.2
+May 16, 2022
+
+### Fixes
+* 🚑️ Codepush does not work (#1773) [`ebab43a`](https://github.com/paralenz/mobile/commit/ebab43a5c0b089d2a8b1077fb8d259fad5111f0b)
+
+
+### Tweaks
+* 📈 Add Tracking [`98fa066`](https://github.com/paralenz/mobile/commit/98fa06638e8f9a18b236a64afd01a51834c8e4cf)
+
+
+
+## v2.15.2
 May 2, 2022
 
 ### Fixes
