@@ -1,3 +1,32 @@
+## v2.17.0
+May 24, 2022
+
+### Feature
+* ✨  Change clip by graph dots (#1844) [`f40ed9f`](https://github.com/paralenz/mobile/commit/f40ed9f04d3f25911949ef78315693451767e0bd)
+
+
+### Fixes
+* 🐛 Decrease initial radius (#1861) [`079d278`](https://github.com/paralenz/mobile/commit/079d278a7c34a9857de52d0afa82893755deeaba)
+* 🐛 Not toggling My Dives (#1860) [`435d931`](https://github.com/paralenz/mobile/commit/435d9319c17e4356f80e2ae4dc58fc9514e13c9b)
+* 🐛 Fetch My sessions when authenticating [`766f791`](https://github.com/paralenz/mobile/commit/766f7912cf7bd35c9351cf6b5264e7e16c8b9765)
+* 🐛 Avoid sending identify tracking for anonymous users [`9d1f9ea`](https://github.com/paralenz/mobile/commit/9d1f9ea6bbfdaa99c7c044d30e42b4985df71a63)
+
+
+### Tweaks
+* 💄 Tweak rental design with light background (#1866) [`c95de4f`](https://github.com/paralenz/mobile/commit/c95de4fef53931905584c2e48844e03f93967aa4)
+* 📈 Add tracking (#1862) [`115cdc2`](https://github.com/paralenz/mobile/commit/115cdc2bd6ad44bf977dac4f2a4019da903bd2be)
+* 💄 Remove Rent Button on RentalPointScreen [`bcebaa9`](https://github.com/paralenz/mobile/commit/bcebaa9405afb0f6ee83dd7521fc6cc2d57aa78e)
+* 💄 Change icon for RentalMarkers [`56048fa`](https://github.com/paralenz/mobile/commit/56048faf5fc83747cc560ffda80e3bfd05268409)
+* 💄 Change zindex for SearchResults [`bd1fd15`](https://github.com/paralenz/mobile/commit/bd1fd159322b6f31de73c1183fc4bd19069bdbfb)
+* ✏️ [`271fc29`](https://github.com/paralenz/mobile/commit/271fc293bbafc6f772fa9d7a0d1ecd1ce5f103d2)
+* 💄 Tweak UI for rental (#1849) [`1a93242`](https://github.com/paralenz/mobile/commit/1a9324264305a51bbcdc0bf91f4bb2e29a7854fc)
+
+
+### Performance updates
+* ⚡️ Only fetch markers if the Map is ready [`2d180d9`](https://github.com/paralenz/mobile/commit/2d180d9fc098bba7da4c4bef43aef680847506a1)
+
+
+
 ## v2.15.3
 May 24, 2022
 
