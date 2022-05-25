@@ -3,6 +3,9 @@ May 24, 2022
 
 ### Feature
 * ✨  Change clip by graph dots (#1844) [`f40ed9f`](https://github.com/paralenz/mobile/commit/f40ed9f04d3f25911949ef78315693451767e0bd)
+* ✨ Display map of where the story was shot (#1826) [`6d17a12`](https://github.com/paralenz/mobile/commit/6d17a126a2c1c53ef9243d82f867b8042d0ed1c0)
+* ✨ Display session rating that the story creator set (#1818) [`b3bc13e`](https://github.com/paralenz/mobile/commit/b3bc13e0296281568d3337af94e2711ca0ba1cf3)
+* ✨ It should be possible to swipe between clips on a story (#1779) [`24f8fc8`](https://github.com/paralenz/mobile/commit/24f8fc845272a5ca1ff3d9cfe3a020ac5137ac64)
 
 
 ### Fixes
@@ -30,26 +33,6 @@ May 24, 2022
 ## v2.15.3
 May 24, 2022
 
-### Feature
-* ✨  Change clip by graph dots (#1844) [`f40ed9f`](https://github.com/paralenz/mobile/commit/f40ed9f04d3f25911949ef78315693451767e0bd)
-* ✨ Display map of where the story was shot (#1826) [`6d17a12`](https://github.com/paralenz/mobile/commit/6d17a126a2c1c53ef9243d82f867b8042d0ed1c0)
-* ✨ Display session rating that the story creator set (#1818) [`b3bc13e`](https://github.com/paralenz/mobile/commit/b3bc13e0296281568d3337af94e2711ca0ba1cf3)
-* ✨  It should be possible to swipe between clips on a story (#1779) [`24f8fc8`](https://github.com/paralenz/mobile/commit/24f8fc845272a5ca1ff3d9cfe3a020ac5137ac64)
-
-
-### Fixes
-* 🐛 Decrease initial radius (#1861) [`079d278`](https://github.com/paralenz/mobile/commit/079d278a7c34a9857de52d0afa82893755deeaba)
-* 🐛 Not toggling My Dives (#1860) [`435d931`](https://github.com/paralenz/mobile/commit/435d9319c17e4356f80e2ae4dc58fc9514e13c9b)
-* 🐛 Fetch My sessions when authenticating [`766f791`](https://github.com/paralenz/mobile/commit/766f7912cf7bd35c9351cf6b5264e7e16c8b9765)
-* 🐛 Avoid sending identify tracking for anonymous users [`9d1f9ea`](https://github.com/paralenz/mobile/commit/9d1f9ea6bbfdaa99c7c044d30e42b4985df71a63)
-* 🐛 Display session markers when logging in (#1840) [`2b1fa7b`](https://github.com/paralenz/mobile/commit/2b1fa7b3a34c7bd4e33f45188418d65abf8c92ae)
-* 🐛 Setting production string as flavor when doing codepush though it d… [`7e4c37f`](https://github.com/paralenz/mobile/commit/7e4c37f58102127e75f421bf734576dffdddfb6b)
-* 🐛 Fix cache invalidation for cameras [`103f2d3`](https://github.com/paralenz/mobile/commit/103f2d3f2769e404c08d913808b4f9f9eb17154a)
-* 🐛 Fix deploy script for android [`f8ad6bb`](https://github.com/paralenz/mobile/commit/f8ad6bb987ef1b3127bedc43f4258c1728fe260e)
-* 🐛  Filter stories with clips in map (#1827) [`e018e58`](https://github.com/paralenz/mobile/commit/e018e58300ddc48277937b954f9b8a0738aa040b)
-* 🐛 Fix disabled online check - thank got for linting :) [`c1b7bca`](https://github.com/paralenz/mobile/commit/c1b7bca9894aeb7dc521ea2f88957385d544c03a)
-
-
 ### Tweaks
 * 📈 Add tracking (#1862) [`115cdc2`](https://github.com/paralenz/mobile/commit/115cdc2bd6ad44bf977dac4f2a4019da903bd2be)
 * 💄 Remove Rent Button on RentalPointScreen [`bcebaa9`](https://github.com/paralenz/mobile/commit/bcebaa9405afb0f6ee83dd7521fc6cc2d57aa78e)
@@ -58,32 +41,7 @@ May 24, 2022
 * ✏️ [`271fc29`](https://github.com/paralenz/mobile/commit/271fc293bbafc6f772fa9d7a0d1ecd1ce5f103d2)
 * 💄 Tweak UI for rental (#1849) [`1a93242`](https://github.com/paralenz/mobile/commit/1a9324264305a51bbcdc0bf91f4bb2e29a7854fc)
 * 📈 Add Tracking [`98fa066`](https://github.com/paralenz/mobile/commit/98fa06638e8f9a18b236a64afd01a51834c8e4cf)
-* 📈 Add PostHost tracking (#1848) [`ea9b8a7`](https://github.com/paralenz/mobile/commit/ea9b8a71501cad4cafa229dc0de968a547a26db5)
-* 💄 RentalPoint and Map tweaks (#1847) [`05c9f18`](https://github.com/paralenz/mobile/commit/05c9f18b1f992eac043270ab150d5129c44d2c59)
-* 💄 Make StoryScreen act as a modal (#1842) [`a88660c`](https://github.com/paralenz/mobile/commit/a88660c08c48548730d2a89a0b9673919b5c4603)
-* 💄 Fix linting [`38d1207`](https://github.com/paralenz/mobile/commit/38d1207038a79128ffa77c14e5a3c1640ac3415a)
-* 💄 Do not hide layer panel when selecting a layer (#1836) [`6da4d2d`](https://github.com/paralenz/mobile/commit/6da4d2de7182eba861cb24b737baed5d1349ec69)
-* 💄 Incorrect website Icon (#1834) [`678fe22`](https://github.com/paralenz/mobile/commit/678fe2226d59ce23984503e4b2a125192d8d7924)
-* 💄 Incorrect website Icon (#1833) [`4d26cb3`](https://github.com/paralenz/mobile/commit/4d26cb3ac4fc50e2fca99854ff8ab4f995799970)
-* 💄 Order indexing of MapMarkers (#1819) [`2d00edc`](https://github.com/paralenz/mobile/commit/2d00edc79174915e74b3070b7959d1375657d3c0)
-* 💄 Adjust rental admin screen layout [`5c78d90`](https://github.com/paralenz/mobile/commit/5c78d909383174e58e6d204805442cad001dba51)
-
-
-### Performance updates
-* ⚡️ Only fetch markers if the Map is ready [`2d180d9`](https://github.com/paralenz/mobile/commit/2d180d9fc098bba7da4c4bef43aef680847506a1)
-
-
-
-## v2.15.2
-May 16, 2022
-
-### Fixes
-* 🚑️ Codepush does not work (#1773) [`ebab43a`](https://github.com/paralenz/mobile/commit/ebab43a5c0b089d2a8b1077fb8d259fad5111f0b)
-
-
-### Tweaks
-* 📈 Add Tracking [`98fa066`](https://github.com/paralenz/mobile/commit/98fa06638e8f9a18b236a64afd01a51834c8e4cf)
-
+* 📈 Add tracking provider (#1848) [`ea9b8a7`](https://github.com/paralenz/mobile/commit/ea9b8a71501cad4cafa229dc0de968a547a26db5)
 
 
 ## v2.15.2
@@ -91,15 +49,6 @@ May 2, 2022
 
 ### Fixes
 * 🚑️ Codepush does not work (#1773) [`ebab43a`](https://github.com/paralenz/mobile/commit/ebab43a5c0b089d2a8b1077fb8d259fad5111f0b)
-
-
-
-## v2.15.1
-April 26, 2022
-
-### Fixes
-* 🚑️ Codepush does not work (#1773) [`ebab43a`](https://github.com/paralenz/mobile/commit/ebab43a5c0b089d2a8b1077fb8d259fad5111f0b)
-
 
 
 ## v2.15.1
@@ -119,7 +68,7 @@ April 20, 2022
 
 ### Fixes
 * 🐛 Use imports from lib/i18n only [`8359211`](https://github.com/paralenz/mobile/commit/8359211fc78aea7ee760fcfc8925d6284bb27961)
-* 🐛  Add loading indicator while video is loading and read local files … [`79e2d67`](https://github.com/paralenz/mobile/commit/79e2d67b63586653d093b398450855f579dad890)
+* 🐛 Add loading indicator while video is loading and read local files … [`79e2d67`](https://github.com/paralenz/mobile/commit/79e2d67b63586653d093b398450855f579dad890)
 
 
 ## v2.14.0
