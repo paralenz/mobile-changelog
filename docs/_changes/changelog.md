@@ -5,7 +5,7 @@ May 24, 2022
 * ✨  Change clip by graph dots (#1844) [`f40ed9f`](https://github.com/paralenz/mobile/commit/f40ed9f04d3f25911949ef78315693451767e0bd)
 * ✨ Display map of where the story was shot (#1826) [`6d17a12`](https://github.com/paralenz/mobile/commit/6d17a126a2c1c53ef9243d82f867b8042d0ed1c0)
 * ✨ Display session rating that the story creator set (#1818) [`b3bc13e`](https://github.com/paralenz/mobile/commit/b3bc13e0296281568d3337af94e2711ca0ba1cf3)
-* ✨ It should be possible to swipe between clips on a story (#1779) [`24f8fc8`](https://github.com/paralenz/mobile/commit/24f8fc845272a5ca1ff3d9cfe3a020ac5137ac64)
+* ✨ It should be possible to swipe between clips on a story (#1779) [`29e1334`](https://github.com/paralenz/mobile/commit/29e13343664d82e40f20008f3c56a0f827a19df8)
 
 
 ### Fixes
@@ -13,6 +13,7 @@ May 24, 2022
 * 🐛 Not toggling My Dives (#1860) [`435d931`](https://github.com/paralenz/mobile/commit/435d9319c17e4356f80e2ae4dc58fc9514e13c9b)
 * 🐛 Fetch My sessions when authenticating [`766f791`](https://github.com/paralenz/mobile/commit/766f7912cf7bd35c9351cf6b5264e7e16c8b9765)
 * 🐛 Avoid sending identify tracking for anonymous users [`9d1f9ea`](https://github.com/paralenz/mobile/commit/9d1f9ea6bbfdaa99c7c044d30e42b4985df71a63)
+* 🐛 Story is paused when releasing touch [`9d1f9ea`](https://github.com/paralenz/mobile/commit/9d1f9ea6bbfdaa99c7c044d30e42b4985df71a63)
 
 
 ### Tweaks
@@ -21,7 +22,6 @@ May 24, 2022
 * 💄 Remove Rent Button on RentalPointScreen [`bcebaa9`](https://github.com/paralenz/mobile/commit/bcebaa9405afb0f6ee83dd7521fc6cc2d57aa78e)
 * 💄 Change icon for RentalMarkers [`56048fa`](https://github.com/paralenz/mobile/commit/56048faf5fc83747cc560ffda80e3bfd05268409)
 * 💄 Change zindex for SearchResults [`bd1fd15`](https://github.com/paralenz/mobile/commit/bd1fd159322b6f31de73c1183fc4bd19069bdbfb)
-* ✏️ [`271fc29`](https://github.com/paralenz/mobile/commit/271fc293bbafc6f772fa9d7a0d1ecd1ce5f103d2)
 * 💄 Tweak UI for rental (#1849) [`1a93242`](https://github.com/paralenz/mobile/commit/1a9324264305a51bbcdc0bf91f4bb2e29a7854fc)
 
 
