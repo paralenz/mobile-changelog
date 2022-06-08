@@ -10,9 +10,6 @@
     "start:dev": "docsify serve docs"
   },
   "devDependencies": {
-    "docsify-cli": "^4.4.3"
-  },
-  "dependencies": {
-    "@paralenz/cli": "^1.4.11"
+    "docsify-cli": "^4.4.4"
   }
 }
