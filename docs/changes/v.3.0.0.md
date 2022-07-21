@@ -2,6 +2,7 @@
 This version mostly contains "under the hood" changes, that is not visible to the user
 
 ### Feature
+* ✨ Allow deep linking with params (#1979)
 * ✨ Filter stories on The Ocean Base based on AI detection (#1950) [`8acc138`](https://github.com/paralenz/mobile/commit/8acc138b90aa423e2f2001fc0e8a4fceda3c3dcc)
 
 
